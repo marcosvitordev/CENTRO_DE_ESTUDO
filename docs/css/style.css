@@ -1,0 +1,69 @@
+
+#textoBoas{
+    color: black;
+}
+.cover {
+  background-image: none !important;
+}
+.cover{
+  background-color: #fed351;
+}
+ion-icon {
+    color: #fed351;
+}
+:root {
+  --theme-color: #fed351;
+}
+#textoBoas{
+  color: #fed351;
+}
+.n1{
+  color: black;
+  font-size: 20pt;
+  border: none;
+}
+/* #menuBtn{
+  
+} */
+.btnMapa{
+  background-color: #fed351;
+  border: solid 1px #fed351;
+  padding: 30px;
+  font-weight: bold;
+  color: white;
+  border-radius: 10px;
+  margin: 12px;
+  font-size: 20pt;
+}
+.btnMapa:hover{
+  border-bottom: solid 3px rgba(0, 0, 0, 0.534);
+  border-right: solid 3px rgba(0, 0, 0, 0.534);
+}
+
+.c1{
+    height: 140px;
+}
+#colaboradosFotos{
+  margin: 5px;
+}
+.imgTam{
+  height: 100px;
+  margin: 5px;
+  width: 100px;
+  border-radius: 12px;
+  border: solid 2px green;
+  background-color: green;
+  margin-right: 20px;
+}
+.nomeColl{
+    border-left: 4px solid var(--theme-color,#ea6f5a);
+    color: #858585;
+    margin: 2em 0;
+    padding-left: 20px;
+    font-weight: bold;
+}
+.titulo{
+  color: white;
+  font-weight: bold;
+  font-size: 30pt;
+}
