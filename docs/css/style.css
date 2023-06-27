@@ -67,3 +67,46 @@ ion-icon {
   font-weight: bold;
   font-size: 30pt;
 }
+
+/*inicio login*/
+.container1 {
+  max-width: 300px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #fed35180;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+#h2Login{
+  text-align: center;
+  margin-top: 0;
+  color: white;
+}
+
+#username, #password{
+  display: block;
+  width: 100%;
+  margin-bottom: 10px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.btnEstudar{
+  display: block;
+  width: 100%;
+  padding: 10px;
+  background-color: #00000085;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.error {
+  color: red;
+  font-size: 14px;
+  margin-bottom: 10px;
+}
+/*fim login*/

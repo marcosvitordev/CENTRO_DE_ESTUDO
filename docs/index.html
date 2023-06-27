@@ -25,10 +25,23 @@
       loadSidebar: '_sidebar.md',
       subMaxLevel: 2,
       homepage: 'paginas/apresentacao.md',
-
   }
 
   </script>
+  <!--função para login de escola-->
+  <script>
+    function login() {
+  var username = document.getElementById("username").value;
+  var password = document.getElementById("password").value;
+
+  if (username === "usuario" && password === "senha") {
+    window.location.href = '#/paginas/Escola.md';
+  } else {
+    document.getElementById("errorMsg").textContent = "Credenciais inválidas. Tente novamente.";
+  }
+}
+
+</script>
   <!-- Docsify v4 -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify-pagination/dist/docsify-pagination.min.js"></script>  
