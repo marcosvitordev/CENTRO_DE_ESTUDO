@@ -15,3 +15,9 @@
 <object data="\arquivos\windows7\Windows-7.pdf" type="application/pdf" width="100%" height="600px">
     <p>Seu navegador não suporta visualização de PDF. Você pode <a href="\arquivos\windows7\Windows-7.pdf">baixá-lo aqui</a>.</p>
 </object>
+
+## PDF 4
+
+<object data="\arquivos\windows7\windows7v1.pdf" type="application/pdf" width="100%" height="600px">
+    <p>Seu navegador não suporta visualização de PDF. Você pode <a href="\arquivos\windows7\windows7v1.pdf">baixá-lo aqui</a>.</p>
+</object>
