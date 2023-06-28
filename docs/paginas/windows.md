@@ -1,23 +1,16 @@
 # Windows 7
 ## PDF 1
-<object data="\arquivos\windows7\Módulo-1.pdf" type="application/pdf" width="100%" height="600px">
-    <p>Seu navegador não suporta visualização de PDF. Você pode <a href="\arquivos\windows7\Módulo-1.pdf">baixá-lo aqui</a>.</p>
-</object>
+
+[Link](https://drive.google.com/file/d/15yoEvC4aNgpo4fzIUVW8Hf2f2Z38I-5B/view?usp=sharing)
 
 ## PDF 2
 
-<object data="\arquivos\windows7\nocoes_basicas_de_informatica.pdf" type="application/pdf" width="100%" height="600px">
-    <p>Seu navegador não suporta visualização de PDF. Você pode <a href="\arquivos\windows7\nocoes_basicas_de_informatica.pdf">baixá-lo aqui</a>.</p>
-</object>
+[Link](https://drive.google.com/file/d/1gKS-bU72xHWpZzM872sRaKeXcXOPlAxt/view?usp=sharing)
 
 ## PDF 3
 
-<object data="\arquivos\windows7\Windows-7.pdf" type="application/pdf" width="100%" height="600px">
-    <p>Seu navegador não suporta visualização de PDF. Você pode <a href="\arquivos\windows7\Windows-7.pdf">baixá-lo aqui</a>.</p>
-</object>
+[Link](https://drive.google.com/file/d/1SIchN1a7kSRGYz2i_5YJcdQTbzGJZTo5/view?usp=sharing)
 
 ## PDF 4
 
-<object data="\arquivos\windows7\windows7v1.pdf" type="application/pdf" width="100%" height="600px">
-    <p>Seu navegador não suporta visualização de PDF. Você pode <a href="\arquivos\windows7\windows7v1.pdf">baixá-lo aqui</a>.</p>
-</object>
+[Link](https://drive.google.com/file/d/10O-BBqoZO358Myjfyv52B0kntxko1FdW/view?usp=sharing)
