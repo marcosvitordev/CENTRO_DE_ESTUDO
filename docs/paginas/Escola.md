@@ -8,5 +8,5 @@ Adobe Photoshop
 
 Windows 7
 
-> [Link](/paginas/windows.md)
+> :computer: [**Link**](/paginas/windows.md)
 
