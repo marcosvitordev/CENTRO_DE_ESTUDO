@@ -8,3 +8,8 @@ Windows 7
 
 > [Link](/paginas/windows.md)
 
+`código`
+
+```python
+def exemplo():
+    print("Exemplo de bloco de código em Python")
