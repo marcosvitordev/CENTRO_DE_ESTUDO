@@ -1,12 +1,10 @@
 # Escola
 
 Adobe Photoshop
-* [Link 1](https://github.com/MarcosVitor2005/CENTRO_DE_ESTUDO/raw/main/docs/arquivos/PS32Bits.7z)
-* [Link 2](https://mega.nz/folder/QLQA2RQC#WQPWRjhfOOh4gLaKwbTEQQ)
+> [Link 1](https://github.com/MarcosVitor2005/CENTRO_DE_ESTUDO/raw/main/docs/arquivos/PS32Bits.7z)
+> [Link 2](https://mega.nz/folder/QLQA2RQC#WQPWRjhfOOh4gLaKwbTEQQ)
 
 Windows 7
 
-* [Link](/paginas/windows.md)
-> Isso é uma citação.
-> 
-> Segunda linha da citação.
+> [Link](/paginas/windows.md)
+
