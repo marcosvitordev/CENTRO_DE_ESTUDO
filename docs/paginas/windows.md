@@ -14,3 +14,8 @@
 ## PDF 4
 
 [Link](https://drive.google.com/file/d/10O-BBqoZO358Myjfyv52B0kntxko1FdW/view?usp=sharing)
+
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title |
+| Paragraph   | First paragraph. <br><br> Second paragraph. |
