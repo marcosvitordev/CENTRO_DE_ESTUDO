@@ -7,3 +7,6 @@ Adobe Photoshop
 Windows 7
 
 * [Link](/paginas/windows.md)
+> Isso é uma citação.
+> 
+> Segunda linha da citação.
