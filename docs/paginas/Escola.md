@@ -21,3 +21,9 @@ Digitação
 > :computer: [**PASTA COM PDFs SOBRE WINDOWS 7**](/paginas/windows.md)
 
 _______________________________________________________________________________________________________________
+Mouse
+
+> :computer: [**Mouse Educacional**](https://github.com/MarcosVitor2005/CENTRO_DE_ESTUDO/raw/main/docs/arquivos/mouse_educacional_15.exe)
+
+_______________________________________________________________________________________________________________
+
