@@ -20,9 +20,9 @@ ________________________________________________________________________________
 
 Word
 
-> :computer: [Aula 1](https://github.com/MarcosVitor2005/CENTRO_DE_ESTUDO/raw/main/docs/arquivos/Word%20I.ppt)
+> :computer: [**Aula 1**](https://github.com/MarcosVitor2005/CENTRO_DE_ESTUDO/raw/main/docs/arquivos/Word%20I.ppt)
 
-> :computer: [Aula 2](https://github.com/MarcosVitor2005/CENTRO_DE_ESTUDO/raw/main/docs/arquivos/Word%20II.ppt)
+> :computer: [**Aula 2**](https://github.com/MarcosVitor2005/CENTRO_DE_ESTUDO/raw/main/docs/arquivos/Word%20II.ppt)
 
 _______________________________________________________________________________________________________________
 
