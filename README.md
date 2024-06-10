@@ -1,6 +1,6 @@
 # Manual de Sobrevivencia
 
-O Manual de sobrevivência tem como objetivo juntar informações do Instituto federal do Acre.
+O Manual de sobrevivência tem como objetivo juntar informações do Centro de Estudo Sena.
 
 O projeto utiliza o [Docsify](https://github.com/docsifyjs/docsify) para construir o site. As páginas são escritas em [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/) e renderizadas pelo Docsify no lado do cliente.
 
